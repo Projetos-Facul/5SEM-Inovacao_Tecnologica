@@ -1,0 +1,21 @@
+Introdução
+
+Objetivo
+
+Alterações de regras em esportes
+(Um texto breve sobre alterações de regras em esporte)
+
+Implementações tecnologicas dentro dos esportes -Histórico de alteração de regras de esportes e relação com a tecnologia
+(Citar esportes que não são ESports que começaram a usar tecnologia para resultados, tipo fim de corrida (foto), video pra tenis (nao sei se é assim), e a camera do futebol, etc.
+
+A resistência do uso da tecnologia em esportes
+(Sempre tem, osso, podemos montar um histórico talvez)
+
+Os E-Games
+(Os E-games e a tecnologia no egame)
+
+Estudos de implementação de tecnologia nos esportes
+(A gente procura se já existe algo ou não, se não, desconsiderar)
+
+Conclusão
+(Meter a boca nos caras contra a tecnologia)
